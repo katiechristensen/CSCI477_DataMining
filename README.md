@@ -14,6 +14,6 @@ Katie Christensen, Ian Cullum, Seth Walloch
 
 ###### Keywords – machine learning, data mining, clustering, unsupervised, partitioning-based, hierarchical-based
 
-References
+##### References
 
 G. Smith, “Video Game Sales.” Kaggle, Oct. 2016, https://www.kaggle.com/datasets/gregorut/videogamesales.
