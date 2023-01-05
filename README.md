@@ -1,8 +1,6 @@
-# CSCI 477, Data Mining - Final Project
+# CSCI 477, Data Mining - Final Project, Spring 2022
 
 ### Cluster Based Analysis on Video Game Sales
-
-#### Spring 2022
 
 Katie Christensen, Ian Cullum, Seth Walloch
 
