@@ -1,1 +1,13 @@
-# CSCI477_DataMining
+# CSCI 477, Data Mining - Final Project
+
+### Cluster Based Analysis on Video Game Sales
+
+Katie Christensen, Ian Cullum, Seth Walloch
+
+Spring 2022
+
+Abstract
+  Essential to data mining are learning tasks that can handle high-dimensional data in any form. Visualizing, interpreting, and analyzing data that is unstructured is a job for clustering. Clustering provides information about the nature of, and patterns within, a dataset that wouldn’t have been possible to understand without organizing it into clusters. Clustering is a fundamental machine learning technique, and algorithms that are centroid-based, density-based, hierarchical, and many others, are extensively utilized in the data mining field. 
+  This paper walks through an application of clustering to  the video game industry. Individual video games are organized into multiple clusters based on their sales information from three regions around the world.
+
+Keywords – machine learning, unsupervised, clustering, partitioning-based, hierarchical-based, data mining
