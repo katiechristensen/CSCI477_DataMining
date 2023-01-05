@@ -12,4 +12,4 @@ Katie Christensen, Ian Cullum, Seth Walloch
   
   This paper walks through an application of clustering to  the video game industry. Individual video games are organized into multiple clusters based on their sales information from three regions around the world.
 
-###### Keywords – machine learning, unsupervised, clustering, partitioning-based, hierarchical-based, data mining
+###### Keywords – machine learning, data mining, clustering, unsupervised, partitioning-based, hierarchical-based
